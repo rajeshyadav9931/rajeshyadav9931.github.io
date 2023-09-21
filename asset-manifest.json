@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.00d477a0.css",
-    "main.js": "/static/js/main.30bc2cf0.js",
-    "static/media/project2.png": "/static/media/project2.d2f2b9bb1868fd0d5d1e.png",
-    "static/media/project1.png": "/static/media/project1.bb51be92394c816e7322.png",
-    "static/media/Intro-Img.jpg": "/static/media/Intro-Img.43a1e3fdb41f401582f7.jpg",
+    "main.css": "/static/css/main.ffe34ec7.css",
+    "main.js": "/static/js/main.59e647d2.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/proj-2.png": "/static/media/proj-2.d2f2b9bb1868fd0d5d1e.png",
+    "static/media/proj-3.png": "/static/media/proj-3.d5ba74497e9e168f54ab.png",
+    "static/media/proj-1.png": "/static/media/proj-1.bb51be92394c816e7322.png",
+    "static/media/fully final.png": "/static/media/fully final.b3e0391200bb1a51487f.png",
+    "static/media/proj-4.png": "/static/media/proj-4.1089d3c2b708d2eb33ab.png",
+    "static/media/Rajesh-Yadav-Resume.pdf": "/static/media/Rajesh-Yadav-Resume.1f6a0f7e8b5a79764013.pdf",
     "index.html": "/index.html",
-    "main.00d477a0.css.map": "/static/css/main.00d477a0.css.map",
-    "main.30bc2cf0.js.map": "/static/js/main.30bc2cf0.js.map"
+    "main.ffe34ec7.css.map": "/static/css/main.ffe34ec7.css.map",
+    "main.59e647d2.js.map": "/static/js/main.59e647d2.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00d477a0.css",
-    "static/js/main.30bc2cf0.js"
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.59e647d2.js"
   ]
 }
